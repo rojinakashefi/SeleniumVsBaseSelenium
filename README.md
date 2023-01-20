@@ -14,11 +14,11 @@ Implemented google map automated test using selenium.
 
 4. Output
    
-   ![oxford.png](/Users/rojina/Desktop/software-engineering/pictures/oxford.png)
+   ![oxford.png](https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/oxford.png)
    
    
 
-5. Good resources : [first]([selenium.webdriver.remote.webdriver &#8212; Selenium 4.7 documentation](https://www.selenium.dev/selenium/docs/api/py/webdriver_remote/selenium.webdriver.remote.webdriver.html#selenium.webdriver.remote.webdriver.WebDriver.find_element)), [second]([selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: invalid locator error using find_element(&#39;username&#39;) Selenium Python - Stack Overflow](https://stackoverflow.com/questions/71097378/selenium-common-exceptions-invalidargumentexception-message-invalid-argument)), [third]([selenium.webdriver.common.by &#8212; Selenium 4.7 documentation](https://www.selenium.dev/selenium/docs/api/py/webdriver/selenium.webdriver.common.by.html#module-selenium.webdriver.common.by))
+5. Good resources : [first](https://www.selenium.dev/selenium/docs/api/py/webdriver_remote/selenium.webdriver.remote.webdriver.html#selenium.webdriver.remote.webdriver.WebDriver.find_element), [second](https://stackoverflow.com/questions/71097378/selenium-common-exceptions-invalidargumentexception-message-invalid-argument), [third](https://www.selenium.dev/selenium/docs/api/py/webdriver/selenium.webdriver.common.by.html#module-selenium.webdriver.common.by)
 
 # Base Selenium
 
@@ -36,7 +36,11 @@ Implemented two projects:
 
 2. Output
    
-   First project
+   First project :
+   https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/first.gif
+   
+   Second project:
+   https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/second.gif
 
 3. Good resources : [first](https://seleniumbase.io/)
 
