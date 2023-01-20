@@ -24,7 +24,7 @@ Implemented google map automated test using selenium.
 
 Implemented two projects:
 
-    First project : Purchesing coffess online and add it to shopping cart.
+    First project : Purchasing coffee online and add it to shopping cart.
 
     Second project : Check login 
 
