@@ -14,7 +14,7 @@ Implemented google map automated test using selenium.
 
 4. Output
    
-   ![oxford.png](https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/oxford.png)
+    <img src="https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/oxford.png" width="540" />
    
    
 
@@ -35,9 +35,12 @@ Implemented two projects:
      ```
 
 2. Output
+   First project
+
    <img src="https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/first.gif" width="540" />
    
-   Second project:
+   Second project
+   
    <img src="https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/second.gif" width="540" />
 
 3. Good resources : [first](https://seleniumbase.io/)
