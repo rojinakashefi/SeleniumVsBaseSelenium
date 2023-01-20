@@ -44,7 +44,6 @@ Implemented two projects:
 
 3. Good resources : [first](https://seleniumbase.io/)
 
-----
 
 ## Difference between Selenium and Base selenium
 
