@@ -36,8 +36,7 @@ Implemented two projects:
 
 2. Output
    
-   First project :
-   https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/first.gif
+   ![First project](https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/first.gif)
    
    Second project:
    https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/second.gif
