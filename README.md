@@ -50,12 +50,15 @@ Implemented two projects:
 
 1.  SeleniumBase uses default timeout values when not set:  
    `self.click("button")` 
+   
    With raw Selenium, methods would fail instantly (*by default*) if an element needed more time to load: 
    `self.driver.find_element(by="css selector", value="button").click()`  
    (Reliable code is better than unreliable code.)
 
 2.  SeleniumBase lets you change the explicit timeout values of methods:  
    `self.click("button",timeout=10)` 
+   
+   
    With raw Selenium, that requires more code: 
    `WebDriverWait(driver,10).until(EC.element_to_be_clickable("css selector", "button")).click()`  
    (Simple code is better than complex code.)
