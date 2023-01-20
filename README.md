@@ -35,11 +35,10 @@ Implemented two projects:
      ```
 
 2. Output
-   
-   ![First project](https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/first.gif)
+   <img src="https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/first.gif" width="540" />
    
    Second project:
-   https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/second.gif
+   <img src="https://github.com/rojinakashefi/SeleniumVsBaseSelenium/blob/main/pictures/second.gif" width="540" />
 
 3. Good resources : [first](https://seleniumbase.io/)
 
