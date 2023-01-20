@@ -4,3 +4,6 @@
 ./venv
 .idea/
 /.idea
+/__pycache__
+/archived_logs
+/latest_logs
